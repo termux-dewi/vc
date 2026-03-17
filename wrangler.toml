@@ -1,0 +1,7 @@
+name = "vc"
+main = "index.js"
+compatibility_date = "2024-03-01"
+
+[vars]
+# Jangan letakkan Private Key di sini jika project publik (Open Source)
+# Lebih baik gunakan Secret di Cloudflare Dashboard
